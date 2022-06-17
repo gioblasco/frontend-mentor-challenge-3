@@ -16,6 +16,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@fontsource/josefin-sans": "^4.5.9",
     "gatsby": "^4.16.0",
     "gatsby-plugin-sass": "^5.16.0",
     "react": "^18.1.0",

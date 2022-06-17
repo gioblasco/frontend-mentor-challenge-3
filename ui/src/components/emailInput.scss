@@ -1,0 +1,13 @@
+$error-red: hsl(0, 93%, 68%);
+
+input {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.label-error {
+    color: $error-red;
+}
+
+.email-error {
+    border-color: $error-red;
+}
